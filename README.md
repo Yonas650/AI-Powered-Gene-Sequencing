@@ -64,7 +64,7 @@ This project aims to classify different types of cancer based on gene expression
 
 Each model was evaluated on the test set using the following metrics:
 - **Accuracy:** The overall accuracy of the model in predicting the correct cancer type.
-- **Precision, Recall, F1-Score:** Detailed in the classification report.
+- **Precision, Recall, F1-Score:** precision measures the accuracy of positive predictions, recall measures the model's ability to identify all relevant instances, and F1-Score provides a harmonic mean of precision and recall..
 - **Confusion Matrix:** A matrix showing the true vs. predicted classifications.
 
 ## Visualizations
@@ -95,8 +95,8 @@ All visualizations are saved in the `visualizations` folder and include:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yonas650/AI-Powered-Gene-Sequencing.git
-   cd AI-Powered-Gene-Sequencing
+   git clone https://github.com/yonas650/Cancer-Classification-Gene-Expression-using-svm-randomforest-and-cnn.git
+   cd Cancer-Classification-Gene-Expression-using-svm-randomforest-and-cnn
    ```
 
 2. **Install Dependencies:**
