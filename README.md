@@ -23,7 +23,7 @@ This project aims to classify different types of cancer based on gene expression
 ## Dataset
 
 - **Name:** BRCA Multi-Omics (TCGA)
-- **Source:** [Kaggle - BRCA Multi-Omics (TCGA)](https://www.kaggle.com/datasets/samdemharter/brca-multi-omics-tcga)
+- **Source:** [Kaggle - BRCA Multi-Omics (TCGA)](https://www.kaggle.com/datasets/samdemharter/brca-multiomics-tcgagot)
 - **Files:**
   - `brca_data_w_subtypes.csv`: Contains gene expression data and associated clinical labels, including histological types of cancer.
   - `data.csv`: General data used for supplementary analysis.
